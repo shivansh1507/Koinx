@@ -1,18 +1,4 @@
-## shivansh_s_application5
 
-Generated with ❤️ from [DhiWise](https://www.dhiwise.com)
-
-## Description
-
-- This React application is built using [create-react-app](https://create-react-app.dev/).
-- It uses [Tailwind CSS](https://tailwindcss.com/)
-- The application is generated in JavaScript.
-
-## Pre-requisites
-
-- [git](https://git-scm.com/) - v2.13 or greater
-- [NodeJS](https://nodejs.org/en/) - v16 or greater
-- [npm](https://www.npmjs.com/) - v6 or greater
 
 ## Running in dev environment
 
